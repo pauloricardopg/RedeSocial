@@ -29,7 +29,7 @@ O sistema permite que usuários criem contas, façam login, editem seus perfis (
 
 ## 🛠️ Tecnologias Utilizadas
 
-- Python 3.x
+- Python 3.11
 - Flask
 - Flask-SQLAlchemy
 - Flask-WTF
@@ -51,6 +51,3 @@ O sistema permite que usuários criem contas, façam login, editem seus perfis (
 ### 📰 Posts
 ![Posts](https://github.com/user-attachments/assets/e81e7e53-d93d-427b-b5c6-6d3d2f949d39)
 
----
-
-> 💬 **Quer sugestões de melhorias ou expansão para esse projeto? Posso te ajudar com ideias como curtidas, comentários, busca de usuários, seguidores e mais.**
