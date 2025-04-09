@@ -51,3 +51,12 @@ O sistema permite que usuários criem contas, façam login, editem seus perfis (
 ### 📰 Posts
 ![Posts](https://github.com/user-attachments/assets/e81e7e53-d93d-427b-b5c6-6d3d2f949d39)
 
+---
+
+## 📬 Contato
+
+Desenvolvido por **Paulo Ricardo Pereira Gomes**  
+📧 pauloricardo1705@gmail.com  
+🔗 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?logo=linkedin&style=flat-square)](https://linkedin.com/in/pauloricardopg)  
+🌐 [![Portfólio](https://img.shields.io/badge/Portfólio-Acessar-informational?style=flat-square&logo=internet-explorer)](https://web-production-4f4b3.up.railway.app/)
+
